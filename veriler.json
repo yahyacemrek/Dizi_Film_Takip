@@ -1,0 +1,170 @@
+[
+    {
+        "Film Adı": "The Dark Knight",
+        "Film Türü": "Aksiyon",
+        "Film Durumu": "İzlendi",
+        "Film Puanı": "5",
+        "Not": "En iyi Batman"
+    },
+    {
+        "Film Adı": "Interstellar",
+        "Film Türü": "Bilim Kurgu",
+        "Film Durumu": "İzlenecek",
+        "Film Puanı": "4",
+        "Not": "Duygusal"
+    },
+    {
+        "Film Adı": "Breaking Bad",
+        "Film Türü": "Dram",
+        "Film Durumu": "İzlendi",
+        "Film Puanı": "5",
+        "Not": "Mükemmel"
+    },
+    {
+        "Film Adı": "Game of Thrones",
+        "Film Türü": "Fantastik",
+        "Film Durumu": "İzlendi",
+        "Film Puanı": "4",
+        "Not": "Son sezon hayal kırıklığı"
+    },
+    {
+        "Film Adı": "The Matrix",
+        "Film Türü": "Bilim Kurgu",
+        "Film Durumu": "İzlendi",
+        "Film Puanı": "5",
+        "Not": "Çığır açıcı"
+    },
+    {
+        "Film Adı": "Stranger Things",
+        "Film Türü": "Bilim Kurgu",
+        "Film Durumu": "İzlenecek",
+        "Film Puanı": "5",
+        "Not": "Nostaljik ve heyecanlı"
+    },
+    {
+        "Film Adı": "The Godfather",
+        "Film Türü": "Dram",
+        "Film Durumu": "İzlendi",
+        "Film Puanı": "5",
+        "Not": "Başyapıt"
+    },
+    {
+        "Film Adı": "Shawshank Redemption",
+        "Film Türü": "Dram",
+        "Film Durumu": "İzlendi",
+        "Film Puanı": "5",
+        "Not": "İlham verici"
+    },
+    {
+        "Film Adı": "Black Mirror",
+        "Film Türü": "Bilim Kurgu",
+        "Film Durumu": "İzlendi",
+        "Film Puanı": "4",
+        "Not": "Teknoloji distopyası"
+    },
+    {
+        "Film Adı": "The Witcher",
+        "Film Türü": "Fantastik",
+        "Film Durumu": "İzlenecek",
+        "Film Puanı": "4",
+        "Not": "Henry Cavill harika"
+    },
+    {
+        "Film Adı": "Parasite",
+        "Film Türü": "Gerilim",
+        "Film Durumu": "İzlendi",
+        "Film Puanı": "5",
+        "Not": "Toplumsal eleştiri"
+    },
+    {
+        "Film Adı": "Chernobyl",
+        "Film Türü": "Tarih",
+        "Film Durumu": "İzlendi",
+        "Film Puanı": "5",
+        "Not": "Çarpıcı gerçeklik"
+    },
+    {
+        "Film Adı": "The Mandalorian",
+        "Film Türü": "Bilim Kurgu",
+        "Film Durumu": "İzlenecek",
+        "Film Puanı": "5",
+        "Not": "Star Wars dünyası"
+    },
+    {
+        "Film Adı": "The Boys",
+        "Film Türü": "Aksiyon",
+        "Film Durumu": "İzlenecek",
+        "Film Puanı": "4",
+        "Not": "Süper kahramanların karanlık yüzü"
+    },
+    {
+        "Film Adı": "Se7en",
+        "Film Türü": "Gerilim",
+        "Film Durumu": "İzlendi",
+        "Film Puanı": "5",
+        "Not": "Sürükleyici bir final"
+    },
+    {
+        "Film Adı": "The Office",
+        "Film Türü": "Komedi",
+        "Film Durumu": "İzlendi",
+        "Film Puanı": "5",
+        "Not": "Efsanevi bir sitcom"
+    },
+    {
+        "Film Adı": "Avatar",
+        "Film Türü": "Bilim Kurgu",
+        "Film Durumu": "İzlendi",
+        "Film Puanı": "4",
+        "Not": "Görsel şölen"
+    },
+    {
+        "Film Adı": "The Crown",
+        "Film Türü": "Tarih",
+        "Film Durumu": "İzlenecek",
+        "Film Puanı": "4",
+        "Not": "Kraliyet ailesinin hikayesi"
+    },
+    {
+        "Film Adı": "Fight Club",
+        "Film Türü": "Dram",
+        "Film Durumu": "İzlendi",
+        "Film Puanı": "5",
+        "Not": "Sürpriz son"
+    },
+    {
+        "Film Adı": "Sherlock",
+        "Film Türü": "Gizem",
+        "Film Durumu": "İzlendi",
+        "Film Puanı": "5",
+        "Not": "Benedict Cumberbatch harika"
+    },
+    {
+        "Film Adı": "Money Heist",
+        "Film Türü": "Suç",
+        "Film Durumu": "İzlendi",
+        "Film Puanı": "4",
+        "Not": "Heyecan dolu"
+    },
+    {
+        "Film Adı": "Gladiator",
+        "Film Türü": "Tarih",
+        "Film Durumu": "İzlendi",
+        "Film Puanı": "5",
+        "Not": "Epik bir hikaye"
+    },
+    {
+        "Film Adı": "The Social Network",
+        "Film Türü": "Dram",
+        "Film Durumu": "İzlendi",
+        "Film Puanı": "5",
+        "Not": "Facebook'un doğuşu"
+    },
+    {
+        "Film Adı": "WandaVision",
+        "Film Türü": "Bilim Kurgu",
+        "Film Durumu": "İzlenecek",
+        "Film Puanı": "4",
+        "Not": "Farklı ve yenilikçi"
+    }
+]
